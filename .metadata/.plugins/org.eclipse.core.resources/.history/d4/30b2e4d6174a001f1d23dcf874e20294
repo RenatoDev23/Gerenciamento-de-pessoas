@@ -1,0 +1,5 @@
+package one.digitalinovation.personapi.Entity;
+
+public class Person {
+
+}
