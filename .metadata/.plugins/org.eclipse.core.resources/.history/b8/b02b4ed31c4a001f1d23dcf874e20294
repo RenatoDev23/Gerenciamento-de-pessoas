@@ -1,0 +1,7 @@
+package one.digitalinovation.personapi.dto;
+
+public class MessageResponseDTO {
+	
+	private string message;
+
+}
